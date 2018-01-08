@@ -1,0 +1,15 @@
+github "ReactiveX/RxSwift" ~> 3.4.0
+github "nakiostudio/EasyPeasy" ~> 1.5
+github "AliSoftware/Reusable" ~> 4.0
+github "brunow/Fondation.swift" "master"
+
+github "intrepidmatt/AnimationSugar" ~> 1.0
+github "malcommac/SwiftDate" ~> 4.0
+
+github "morizotter/KeyboardObserver" ~> 2.0
+github "danielgindi/Charts" ~> 3.0
+
+github "JohnSundell/Require" ~> 1.0
+
+github "yaslab/CSV.swift" ~> 2.1.0
+github "realm/realm-cocoa" ~> 3.0
